@@ -1,0 +1,7 @@
+[2026-11-10T08:53:10Z] === AST ITERATION 1 START | repo=zubairehman/flutter_boilerplate_project sha=70657cd1 ===
+[2026-11-10T08:53:10Z] [iter=1] PHASE START: ast repo=zubairehman/flutter_boilerplate_project sha=70657cd1
+[2026-11-10T08:53:10Z] [iter=1] Building AST aggregate chunks
+[2026-11-10T08:53:22Z] [iter=1] AST chunks built count=1 triples=143358
+[2026-11-10T08:53:22Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/70657cd1e72b5ae471e417401b056253ac65d07f/.complete
+[2026-11-10T08:53:22Z] [iter=1] PHASE END: ast elapsed_s=12 elapsed_min=0.2
+[2026-11-10T08:53:22Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
